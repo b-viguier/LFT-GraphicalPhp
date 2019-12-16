@@ -1,6 +1,6 @@
 {
-    "name": "bviguier/forum-php2019-lt",
-    "description": "Lightning Talk for ForumPhp 2019",
+    "name": "bviguier/lft-graphical-php",
+    "description": "Lightning Talk for M6Web",
     "type": "project",
     "require": {
         "php": "^7.2",

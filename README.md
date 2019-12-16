@@ -1,10 +1,9 @@
-# ForumPhp2019-LT
+# LFT-GraphicalPhp
 
-A lightning talk, given at [ForumPhp 2019](https://event.afup.org/),
+A lightning talk, given at [M6 Web](https://tech.m6web.fr/),
 about graphical programming with Php.
 
 Done with [PhPresent](https://github.com/b-viguier/PhPresent).
-[Pdf version available here.](/ForumPhp2019-LT.pdf)
 
 ## Install
 * Check [PhPresent](https://github.com/b-viguier/PhPresent) requirements.

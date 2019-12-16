@@ -77,8 +77,8 @@ $presentation
         $bitmapLoader->fromFile(__DIR__.'/assets/php.png')
     ))
     ->addSlide(new Slides\GitRepo(
-        "ForumPhp2019-LT",
-        "https://github.com/b-viguier/ForumPhp2019-LT"
+        "LFT-GraphicalPhp",
+        "https://github.com/b-viguier/LFT-GraphicalPhp"
     ))
     ->addSlide(new Slides\BigText("Why\n?!?"))
     ->addSlide(new Slides\Quote(
