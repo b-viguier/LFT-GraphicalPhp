@@ -76,6 +76,19 @@ $presentation
         "https://github.com/b-viguier/PhPresent",
         $bitmapLoader->fromFile(__DIR__.'/assets/php.png')
     ))
+    ->addSlide(new Slides\TitleAndImage(
+        "Slides As Code",
+        $bitmapLoader->fromFile(__DIR__.'/assets/PhpPresent_example.png')
+    ))
+    ->addSlide(new Slides\TitleAndImage(
+        "Imagick",
+        $bitmapLoader->fromFile(__DIR__.'/assets/Imagick.jpg')
+    ))
+    ->addSlide(new Slides\TitleAndImage(
+        "Animations",
+        $bitmapLoader->fromFile(__DIR__.'/assets/PhpPresent_animation.png')
+    ))
+
     ->addSlide(new Slides\GitRepo(
         "LFT-GraphicalPhp",
         "https://github.com/b-viguier/LFT-GraphicalPhp"
