@@ -5,6 +5,8 @@ about graphical programming with Php.
 
 Done with [PhPresent](https://github.com/b-viguier/PhPresent).
 
+[Pdf version](LFT-GraphicalPhp.pdf)
+
 ## Install
 * Check [PhPresent](https://github.com/b-viguier/PhPresent) requirements.
 * `composer install`
