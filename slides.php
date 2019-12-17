@@ -93,6 +93,7 @@ $presentation
         "LFT-GraphicalPhp",
         "https://github.com/b-viguier/LFT-GraphicalPhp"
     ))
+    ->addSlide(new Slides\BigImage($bitmapLoader->fromFile(__DIR__.'/assets/opengl.jpg')))
     ->addSlide(new Slides\BigText("Why\n?!?"))
     ->addSlide(new Slides\Quote(
         $bitmapLoader->fromFile(__DIR__.'/assets/twain.jpg'),
